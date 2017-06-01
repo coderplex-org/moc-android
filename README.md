@@ -17,10 +17,40 @@
 - Activities & intents
 - List & recycler view
 - UI widgets
-- Fragments
-- Advanced layouts & views
 - Local data storage
 - Networking
 
+### Week 1:
+- Introduction
+- Activity lifecycle
+- Layouts
+ - Linear
+ - Relative
+ - Constraint
+- User Interface widgets
+- Intents
+
+### Week 2
+- Alert dialogs
+- List view
+- Adapters
+- Web view
+- Menus
+
+### Week 3
+- Authentication
+- JSON parsing
+- Networking libraries
+- Shared preferences
+- SQLite db
+- Notifications
+
+## Week 4
+- Make your own app.
+
 ## Prerequisites
 Enrolling candidates should be motivated to learn and be comfortable with at least one programming language. Preference will be given to candidates who can code in Java. Familiarity with Git is also expected. Access to an Android device is helpful, but not mandatory.
+
+## Study schedule
+
+Enrolled candidates are expected to dedicate 5 to 7 hours everyday for this track.
