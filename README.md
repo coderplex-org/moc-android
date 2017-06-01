@@ -20,6 +20,7 @@
 - Local data storage
 - Networking
 
+*Tentative Schedule*
 ### Week 1:
 - Introduction
 - Activity lifecycle
