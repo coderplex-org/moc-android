@@ -4,6 +4,9 @@
 ## Project Structure
 Try to follow guidelines laid in [projectStructure.md](https://github.com/fcc-hyd/moc-android/blob/master/projectStructure.md) for organizing your repositories.
 
+## Assignments
+List of [personal]() and group collaboration projects are updated regularly for candidates to work on.
+
 ## Course Expectations
 1. Learn & create professional quality Android apps which :
     - Authenticates user through Google, Github etc.
