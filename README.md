@@ -23,6 +23,7 @@ Try to follow guidelines laid in projectStructure.md for organizing your reposit
 - Local data storage
 - Networking
 
+*Tentative Schedule*
 ### Week 1:
 - Introduction
 - Activity lifecycle
