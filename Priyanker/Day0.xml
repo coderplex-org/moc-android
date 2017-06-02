@@ -61,13 +61,33 @@
         android:paddingBottom="6dp"
         android:paddingTop="2dp"
         android:textColor="@android:color/white"/>
-
-    <TextView
-        android:id="@+id/textView3"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
-        android:text="@string/signup"
-        android:textAlignment="center"
-        android:textColor="@android:color/white"/>
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:layout_marginTop="35dp">
+        <TextView
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="62dp"
+            android:layout_marginBottom="10dp"
+            android:text="@string/signup"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:paddingLeft="30dp"
+            android:textColor="@android:color/white"/>
+        <Button
+            android:layout_width="29dp"
+            android:layout_height="35dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            android:layout_marginLeft="2dp"
+            android:text="@string/qmark"
+            android:layout_marginTop="60dp"
+            />
+
+    </LinearLayout>
 </LinearLayout>
