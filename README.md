@@ -1,5 +1,8 @@
 # Android Track <br> Month of Code - June 2017<br> FreeCodeCamp - Hyderabad
 
+## Project Structure
+Try to follow guidelines laid in projectStructure.md for organizing your repositories.
+
 ## Course Expectations
 1. Learn & create professional quality Android apps which :
     - Authenticates user through Google, Github etc.
