@@ -12,5 +12,3 @@ Candidates are expected to write in detail what they have learned or worked on i
 <br>
 ![Logging day to day activity](http://i.imgur.com/Qtjb13K.jpg)
 
-### Recommendations
-- Upload your photos to [Imgur](http://imgur.com/) for sharing links on gitter or adding them in .md files in projects.

@@ -7,6 +7,9 @@ Try to follow guidelines laid in [projectStructure.md](https://github.com/fcc-hy
 ## Assignments
 List of [personal](https://github.com/fcc-hyd/moc-android/blob/master/personalAssignments.md) and group collaboration projects are updated regularly for candidates to work on.
 
+### Best Practices
+- Upload your photos to [Imgur](http://imgur.com/) for sharing adding them in markdown files in projects.
+
 ## Course Expectations
 1. Learn & create professional quality Android apps which :
     - Authenticates user through Google, Github etc.
