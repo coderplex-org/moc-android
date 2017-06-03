@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3b5998"
+    tools:context="com.example.root.facebook.MainActivity">
+
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:src="@drawable/fblogo"
+    android:layout_marginTop="70dp"
+    android:id="@+id/logo"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/userName"
+        android:background="@android:color/white"
+        android:layout_marginTop="25dp"
+        android:layout_below="@id/logo"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+
+        "/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/password"
+        android:background="@android:color/white"
+        android:layout_marginTop="25dp"
+        android:layout_below="@id/userName"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        "/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:id="@+id/loginBtn"
+        android:layout_below="@id/password"
+        android:text="LOGIN"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:background="#191970"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/forgot"
+        android:layout_below="@id/loginBtn"
+        android:layout_centerInParent="true"
+        android:text="Forgot Password ?"
+        android:textStyle="italic"
+        android:textColor="@android:color/white"/>
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/loginBtn"
+        android:layout_alignLeft="@+id/loginBtn"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/loginBtn"
+        android:layout_alignStart="@+id/loginBtn"
+        android:layout_marginLeft="35dp"
+        android:layout_marginStart="35dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Dont't have an account, Signup!" />
+</RelativeLayout>
+
