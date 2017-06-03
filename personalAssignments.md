@@ -11,6 +11,7 @@
 
 #### Assignment No.2
 - Finish pending Assignment No 1
+- Fully understand [Android Activity Lifecycle](http://imgur.com/a/EGmzL)
 - Complete [Android Basics: User Interface](https://www.udacity.com/course/android-development-for-beginners--ud837) course
 - Save all the projects worked through in the course locally and push it to your "Assignment No.2" folder.
 - Add photos of the output.
