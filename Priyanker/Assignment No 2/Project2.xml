@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="300dp"
+        android:layout_height="37dp"
+        android:text="@string/fcc"
+        android:textSize="30sp"
+        android:paddingLeft="50dp"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:background="#006203"
+        android:fontFamily="sans-serif"
+        android:layout_alignParentTop="true"/>
+    <ImageView
+        android:id="@+id/symbol"
+        android:layout_width="39.3dp"
+        android:layout_height="39.9dp"
+        android:layout_toRightOf="@id/title"
+        android:src="@drawable/fccsymbol"
+        android:layout_alignParentTop="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:background="#006203"
+        android:layout_toRightOf="@id/symbol"
+        android:layout_alignParentTop="true"/>
+    <ImageView
+        android:id="@+id/mocpicture"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@id/title"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/mocpic"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@id/mocpicture"
+        android:background="@android:color/holo_orange_light"
+        android:paddingTop="2dp"
+        android:text="@string/moc"
+        android:textAlignment="center"
+        android:textColor="?attr/colorPrimaryDark"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:id="@+id/mocweb"
+        android:background="#4eb980"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/textView2">
+
+        <RadioButton
+            android:id="@+id/rbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="6dp"
+            android:paddingTop="10dp"
+            android:text="@string/website"
+            android:textColor="#6E6570"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="4dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/domaintitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/mocweb"
+        android:background="@android:color/holo_blue_bright"
+        android:text="@string/domains"
+        android:textAlignment="center"
+        android:textColor="#3f4154"
+        android:textSize="32sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lend"
+        android:textSize="20sp"
+        android:paddingTop="20dp"
+        android:paddingLeft="40dp"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/domaintitle"
+        android:layout_alignParentLeft="true"
+        android:textColor="#BF3E50"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rend"
+        android:layout_below="@id/domaintitle"
+        android:layout_alignParentRight="true"
+        android:textColor="#BF3E50"
+        android:textStyle="bold"
+        android:paddingTop="20dp"
+        android:paddingRight="30dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:fontFamily="monospace"
+        android:paddingLeft="15dp"
+        android:text="@string/ct"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:paddingTop="3dp"/>
+
+</RelativeLayout>
