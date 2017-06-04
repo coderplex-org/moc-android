@@ -13,3 +13,11 @@ Day 2
 Learned : Went through android developer site to check out new XML attributes. Also, did some progress on the undacity course.
 
 Worked: Made some changes to the facebook assignment app(added a button). 
+
+Day 3
+
+3/6/17
+
+Learned : Did some progress on the undacity course and read about activity activity life cycles.
+
+Worked: Completed the projects from the udacity user interface course.
