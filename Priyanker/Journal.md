@@ -21,3 +21,11 @@ Day 3
 Learned : Did some progress on the undacity course and read about activity activity life cycles.
 
 Worked: Completed the projects from the udacity user interface course.
+
+Day 4
+
+4/6/17
+
+Learned : Activity Life Cycles
+
+Worked: -
