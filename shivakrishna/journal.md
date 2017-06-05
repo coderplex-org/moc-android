@@ -1,12 +1,29 @@
-Day1
+Day 1
+1/6/17
 Interaction with fellow fcc moc particpants and fcc mentors
 Read about Various Layouts
 Played around with layouts and their properties
 Took an assignment from the mentors
 
-Day2
+Day 2
+2/6/17
 Read about Activity Life Cycle
 
-Day3
+Day 3
+3/6/17
 Completed Assignment1
-COmpleted Udacity User Interface Course - Lesson 3 
+Completed Udacity User Interface Course - Lesson 3
+
+Day 4
+4/6/17
+Completed Birthday Card part of assignment 2
+Explored github for beginner open source repos
+Read about Grid Layout and its attributes.
+Completed UI Udacity course 
+
+TODO: Add music to the Birthday Card app to play music on sreen touch.
+
+Day 5
+5/6/17
+Completed Make your own card (created SWOT) part of assignment 2
+
