@@ -49,6 +49,7 @@ Monday, 5th June - 9 am
 ---
 
 #### Assignment No.4
+- Read about MainActivity.java class and onCreate method
 - Create a counter application :
     - Logic
         - Every click of the button should increment the numerical value
@@ -56,6 +57,8 @@ Monday, 5th June - 9 am
     - User Interface
         - Button , textview etc
     - User resource folder for strings, dimensions etc.
-    - [Initial skeleton](http://imgur.com/a/VIkyR)
+    - [Initial skeleton](http://imgur.com/a/VIkyR) - Before click and after click
     
 ##### References:
+- [MainActivity.java class](https://www.youtube.com/watch?v=j4aQM0m1ino)
+- [onCreate Method](https://developer.android.com/reference/android/app/Activity.html#onCreate(android.os.Bundle))
