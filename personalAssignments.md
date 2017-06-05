@@ -21,3 +21,38 @@
 Monday, 5th June - 9 am
 
 ---
+
+#### Assignment No.3
+- Create a simple android lifecycle app :
+    - take references from this repositories 
+    <br>[Zubair's Android-LifeCycle-demo
+](https://github.com/M-ZubairAhmed/Android-LifeCycle-demo)
+    <br>[Pavan - ]()
+    - Install the app in your phone for demonstration
+    - If remote, add the apk file in repo
+    - Add only the .java file in the repo
+- Take a look at the [issue #20](https://github.com/fcc-hyd/moc-android/issues/20), if its applicable to you resolve it.
+- Read all about Constraint layout, App manifest, App icon, values/Resource folder.
+- Redesign the assignment no.1's Facebook login page as follows:
+    - Use only constraint layout for aligning all the views, do not use linear or relative layout.
+    - Do not hardcode strings, colors or dimensions. Instead use strings.xml, colors.xml, dimensions.xml
+    - Remove the top action bar.
+    - Rename your application to "Facebook"
+    - Add app icon
+
+##### References:
+- [Official doc - Constraint layout](https://developer.android.com/reference/android/support/constraint/ConstraintLayout.html)
+- [Smarthear - Manifest]()
+- 
+---
+
+#### Assignment No.4
+- Create a countdown application :
+    - Logic
+        - Every click of the button should increment the numerical value
+    - User Interface
+        - Button , textview etc
+    - User resource folder for strings, dimensions etc.
+    - ![Initial skeleton]()
+    
+##### References:
