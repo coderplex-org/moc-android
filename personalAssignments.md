@@ -57,7 +57,7 @@ Monday, 5th June - 9 am
     - User Interface
         - Button , textview etc
     - User resource folder for strings, dimensions etc.
-    - [Initial skeleton](http://imgur.com/a/VIkyR) - Before click and after click
+    - ![Initial skeleton](http://imgur.com/a/VIkyR) - Before click and after click
     
 ##### References:
 - [MainActivity.java class](https://www.youtube.com/watch?v=j4aQM0m1ino)
