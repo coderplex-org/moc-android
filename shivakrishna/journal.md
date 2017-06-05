@@ -1,4 +1,4 @@
-* [shivakrishna9](http://github.com/shivakrishna9) Log File | MOC-JAND
+# [shivakrishna9](http://github.com/shivakrishna9) Log File | MOC-JAND
 
 Day 1
 
@@ -31,7 +31,7 @@ Day 4
 * Read about Grid Layout and its attributes.
 * Completed UI Udacity course 
 
-* TODO: Add music to the Birthday Card app to play music on sreen touch.
+* TODO: Add music to the Birthday Card app to play music on screen touch.
 
 Day 5
 
