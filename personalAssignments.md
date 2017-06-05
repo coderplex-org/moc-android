@@ -57,9 +57,8 @@ Monday, 5th June - 9 am
     - User Interface
         - Button , textview etc
     - User resource folder for strings, dimensions etc.
-    ![Imgur](http://i.imgur.com/uDjN9mKm.png) - Before click
-    <br>
-    ![Imgur](http://i.imgur.com/sXFULYEm.png) - After click
+    - Before click <br> ![Imgur](http://i.imgur.com/uDjN9mKm.png) 
+    - After click <br> ![Imgur](http://i.imgur.com/sXFULYEm.png)
     
 ##### References:
 - [MainActivity.java class](https://www.youtube.com/watch?v=j4aQM0m1ino)
