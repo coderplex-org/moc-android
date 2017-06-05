@@ -27,7 +27,7 @@ Monday, 5th June - 9 am
     - take references from this repositories 
     <br>[Zubair's Android-LifeCycle-demo
 ](https://github.com/M-ZubairAhmed/Android-LifeCycle-demo)
-    <br>[Pavan - ]()
+    <br>[Pavan's Activity Lifecycle](https://github.com/mallelapavank/Activity-Lifecycle)
     - Install the app in your phone for demonstration
     - If remote, add the apk file in repo
     - Add only the .java file in the repo
@@ -56,6 +56,6 @@ Monday, 5th June - 9 am
     - User Interface
         - Button , textview etc
     - User resource folder for strings, dimensions etc.
-    - ![Initial skeleton](http://imgur.com/a/VIkyR)
+    - [Initial skeleton](http://imgur.com/a/VIkyR)
     
 ##### References:
