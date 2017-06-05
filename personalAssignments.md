@@ -36,23 +36,26 @@ Monday, 5th June - 9 am
 - Redesign the assignment no.1's Facebook login page as follows:
     - Use only constraint layout for aligning all the views, do not use linear or relative layout.
     - Do not hardcode strings, colors or dimensions. Instead use strings.xml, colors.xml, dimensions.xml
-    - Remove the top action bar.
+    - Remove the top action bar to make it fullscreen.
     - Rename your application to "Facebook"
     - Add app icon
 
 ##### References:
 - [Official doc - Constraint layout](https://developer.android.com/reference/android/support/constraint/ConstraintLayout.html)
-- [Smarthear - Manifest]()
-- 
+- [Constraint Layouts - Video Explanation](https://www.youtube.com/watch?v=z53Ed0ddxgM)
+- [Official doc - App Manifest](https://developer.android.com/guide/topics/manifest/manifest-intro.html)
+- [Android App Manifest - Video Explanation](https://www.youtube.com/watch?v=qvFrzPcUmo8)
+ 
 ---
 
 #### Assignment No.4
-- Create a countdown application :
+- Create a counter application :
     - Logic
         - Every click of the button should increment the numerical value
+        - The incremented number should be dislayed on screen
     - User Interface
         - Button , textview etc
     - User resource folder for strings, dimensions etc.
-    - ![Initial skeleton]()
+    - ![Initial skeleton](http://imgur.com/a/VIkyR)
     
 ##### References:
