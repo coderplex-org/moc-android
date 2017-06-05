@@ -5,7 +5,10 @@
 Try to follow guidelines laid in [Project Structure](https://github.com/fcc-hyd/moc-android/blob/master/projectStructure.md) for organizing your repositories.
 
 ## Assignments
-List of [personal](https://github.com/fcc-hyd/moc-android/blob/master/personalAssignments.md) and group collaboration projects are updated regularly for candidates to work on.
+Projects are broken down to :
+- [Personal Assignments](https://github.com/fcc-hyd/moc-android/blob/master/personalAssignments.md) : Candidates are required to submit them regularly to advance in the course.
+- Group Projects :
+All the candidates contribute to these projects.
 
 ### Best Practices
 - Upload your photos to [Imgur](http://imgur.com/) for sharing adding them in markdown files in projects.
