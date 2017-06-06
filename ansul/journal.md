@@ -1,11 +1,13 @@
-01/06/2017
+# ansul90 Log File | MOC-ANDROID
+
+### 1/6/17
 
 Today learnt about layouts
 Resources referred: https://developer.android.com/guide/topics/ui/declaring-layout.html
 
-5.06.2017
+### 5/6/17
 
-Referred to the below courses for understanding about layouts
+Referred to the below links for understanding about layouts
 
 Primary
 https://classroom.udacity.com/courses/ud834/
