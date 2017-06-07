@@ -7,7 +7,7 @@
 
 ### 5/6/17
 
-* Referred to the below links for understanding about layouts
+Referred to the below links for understanding about layouts
 
 * Primary
 https://classroom.udacity.com/courses/ud834/
@@ -17,3 +17,9 @@ https://developer.android.com/reference/android/widget/TextView.html
 https://plus.google.com/+AndroidDevelopers/posts/gQuBtnuk6iG
 * Material guidelines
 https://material.io/guidelines/material-design/introduction.html#
+
+### 7/6/17
+
+Referred to Week 2 video on Activity Lifecycle by present in Programming Mobile Applications for Android Handheld Systems
+
+* Activity Lifecycle assignment completed
