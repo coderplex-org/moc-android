@@ -1,4 +1,17 @@
-# Android Track <br> Month of Code - June 2017<br> FreeCodeCamp - Hyderabad
+# Android - Month of Code Jun'17
+# FreeCodeCamp - Hyderabad
+
+## Project Structure
+Try to follow guidelines laid in [Project Structure](https://github.com/fcc-hyd/moc-android/blob/master/projectStructure.md) for organizing your repositories.
+
+## Assignments
+Projects are broken down to :
+- [Personal Assignments](https://github.com/fcc-hyd/moc-android/blob/master/personalAssignments.md) : Candidates are required to submit them regularly to advance in the course. [Personal projects tracker](https://github.com/fcc-hyd/moc-android/blob/master/progressTracker.md) is displays each candidates assignment completion.
+- Group Projects :
+All the candidates contribute to these projects.
+
+### Best Practices
+- Upload your photos to [Imgur](http://imgur.com/) for sharing adding them in markdown files in projects.
 
 ## Course Expectations
 1. Learn & create professional quality Android apps which :
