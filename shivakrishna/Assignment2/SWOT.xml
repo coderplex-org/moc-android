@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:rowCount="4">
+
+    <TextView
+        android:id="@+id/strength"
+        android:layout_width="204dp"
+        android:layout_height="40dp"
+        android:text="STRENGTHS"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_column="0"
+        android:layout_row="0"
+        android:background="#005005"
+
+    />
+
+    <EditText
+        android:id="@+id/tS"
+        android:layout_column="0"
+        android:layout_row="1"
+        android:background="#60ad5e"
+        android:textColor="#ffffff"
+        android:hint="Enter your strengths here.."
+        android:layout_height="0dp"
+        android:layout_rowWeight="1"
+        android:layout_width="0dp"
+        android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1"
+    />
+
+    <TextView
+        android:id="@+id/weakness"
+        android:layout_width="204dp"
+        android:layout_height="40dp"
+        android:text="WEAKNESSES"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_column="1"
+        android:layout_row="0"
+        android:background="#c43e00"/>
+
+    <EditText
+        android:id="@+id/tW"
+        android:layout_column="1"
+        android:layout_row="1"
+        android:background="#ffa040"
+        android:textColor="#ffffff"
+        android:hint="Enter your weaknesses here.."
+        android:layout_height="0dp"
+        android:layout_rowWeight="1"
+        android:layout_width="0dp"
+        android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1"
+
+    />
+    <TextView
+        android:id="@+id/oppertu"
+        android:text="OPPORTUNITIES"
+        android:layout_width="204dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_column="0"
+        android:layout_row="2"
+        android:background="#005cb2"/>
+
+    <EditText
+        android:id="@+id/tO"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:background="#6ab7ff"
+        android:textColor="#ffffff"
+        android:hint="Enter your opportunities here.."
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_height="0dp"
+        android:layout_rowWeight="1"
+        android:layout_width="0dp"
+        android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1"
+
+    />
+    <TextView
+        android:id="@+id/threat"
+        android:text="THREATS"
+        android:layout_width="204dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:background="#9a0007"/>
+    <EditText
+        android:layout_row="3"
+        android:layout_column="1"
+        android:background="#ff6659"
+        android:textColor="#ffffff"
+        android:hint="Enter your Threats here.."
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_height="0dp"
+        android:layout_rowWeight="1"
+        android:layout_width="0dp"
+        android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1"
+        />
+
+
+</GridLayout>
