@@ -27,8 +27,9 @@
         android:hint="Enter your strengths here.."
         android:layout_height="0dp"
         android:layout_rowWeight="1"
-        android:layout_width="0dip"
+        android:layout_width="0dp"
         android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1"
     />
 
     <TextView
@@ -51,8 +52,9 @@
         android:hint="Enter your weaknesses here.."
         android:layout_height="0dp"
         android:layout_rowWeight="1"
-        android:layout_width="0dip"
+        android:layout_width="0dp"
         android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1"
 
     />
     <TextView
@@ -77,8 +79,9 @@
         android:layout_alignParentEnd="true"
         android:layout_height="0dp"
         android:layout_rowWeight="1"
-        android:layout_width="0dip"
+        android:layout_width="0dp"
         android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1"
 
     />
     <TextView
@@ -101,8 +104,9 @@
         android:layout_alignParentEnd="true"
         android:layout_height="0dp"
         android:layout_rowWeight="1"
-        android:layout_width="0dip"
+        android:layout_width="0dp"
         android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1"
         />
 
 
