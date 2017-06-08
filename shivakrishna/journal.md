@@ -39,3 +39,24 @@ Day 5
 
 * Completed Make your own card (created SWOT) part of assignment 2
 
+Day 6
+
+### 6/6/17
+
+* Read about constraint Layouts, AndroidManifest.xml.
+* Read about MainActivity java.
+
+Day 7
+
+### 7/6/17
+
+* Created constraint layout for facebook part of Assignment 3.
+* Created an app to demonstrate Activity Life Cycle using toast messages part of assignment 3.
+* Read about floating action button and Snackbar display.
+
+Day 8
+
+### 8/6/17
+
+* Created app CountMyCLicks as assignment 4.
+
