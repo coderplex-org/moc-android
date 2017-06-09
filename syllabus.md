@@ -22,15 +22,19 @@
 
 ### Week 2
 - Alert dialogs
+- Event Handlers
 - List view
 - Adapters
-- Web view
-- Menus
+- Networking libraries
+- JSON parsing
 
 ### Week 3
+- Menus
+- Web View
 - Authentication
-- JSON parsing
-- Networking libraries
+- Animations
+- Media
+- Locations
 - Shared preferences
 - SQLite db
 - Notifications
