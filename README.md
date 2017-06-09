@@ -14,7 +14,7 @@ All the candidates contribute to these projects.
 - Upload your photos to [Imgur](http://imgur.com/) for sharing adding them in markdown files in projects.
 - Instead of uploading the complete android project, its a good idea to include the [.apk](https://stackoverflow.com/questions/17702053/where-is-android-studio-building-my-apk-file) file and relevant code files.
 
-## Course Expectations
+### Course Expectations
 1. Learn & create professional quality Android apps which :
     - Authenticates user through Google, Github etc.
     - Follows material design guidelines for professional UI/UX
@@ -25,7 +25,7 @@ All the candidates contribute to these projects.
 3. Publish apps on playstore.
 
 ## Syllabus
-This program is structured and tailed around each candidates depending upon various parameters. Although not required to follow exactly, a flexible [Syllabus]() is created.
+This program is structured and tailed around each candidates depending upon various parameters. Although not required to follow exactly, a flexible [Syllabus](https://github.com/fcc-hyd/moc-android/blob/master/Syllabus.md) is created.
 
 ## Prerequisites
 Enrolling candidates should be motivated to learn and be comfortable with at least one programming language. Preference will be given to candidates who can code in Java. Familiarity with Git is also expected. Access to an Android device is helpful, but not mandatory.
