@@ -6,7 +6,7 @@ Try to follow guidelines laid in [Project Structure](https://github.com/fcc-hyd/
 
 ## Assignments
 Projects are broken down to :
-- [Personal Assignments](https://github.com/fcc-hyd/moc-android/blob/master/personalAssignments.md) : Candidates are required to submit them regularly to advance in the course. [Personal projects tracker](https://github.com/fcc-hyd/moc-android/blob/master/progressTracker.md) is displays each candidates assignment completion.
+- [Personal Assignments](https://github.com/fcc-hyd/moc-android/projects) : Candidates are required to submit them regularly to advance in the course. [Personal projects tracker](https://github.com/fcc-hyd/moc-android/blob/master/progressTracker.md) is displays each candidates assignment completion.
 - Group Projects :
 All the candidates contribute to these projects.
 
