@@ -25,7 +25,7 @@ All the candidates contribute to these projects.
 3. Publish apps on playstore.
 
 ## Syllabus
-This program is structured and tailed around each candidates depending upon various parameters. Although not required to follow exactly, a flexible [Syllabus](https://github.com/fcc-hyd/moc-android/blob/master/Syllabus.md) is created.
+This program is structured and tailed around each candidates depending upon various parameters. Although not required to follow exactly, a flexible [Syllabus](https://github.com/fcc-hyd/moc-android/blob/master/syllabus.md) is created.
 
 ## Prerequisites
 Enrolling candidates should be motivated to learn and be comfortable with at least one programming language. Preference will be given to candidates who can code in Java. Familiarity with Git is also expected. Access to an Android device is helpful, but not mandatory.
