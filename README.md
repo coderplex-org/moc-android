@@ -12,6 +12,7 @@ All the candidates contribute to these projects.
 
 ### Best Practices
 - Upload your photos to [Imgur](http://imgur.com/) for sharing adding them in markdown files in projects.
+- Instead of uploading the complete android project, its a good idea to include the [.apk](https://stackoverflow.com/questions/17702053/where-is-android-studio-building-my-apk-file) file and relevant code files.
 
 ## Course Expectations
 1. Learn & create professional quality Android apps which :
@@ -24,47 +25,10 @@ All the candidates contribute to these projects.
 3. Publish apps on playstore.
 
 ## Syllabus
-- Getting started installations
-- Java basics
-- Layouts
-- Activities & intents
-- List & recycler view
-- UI widgets
-- Local data storage
-- Networking
-
-*Tentative Schedule*
-### Week 1:
-- Introduction
-- Activity lifecycle
-- Layouts
- - Linear
- - Relative
- - Constraint
-- User Interface widgets
-- Intents
-
-### Week 2
-- Alert dialogs
-- List view
-- Adapters
-- Web view
-- Menus
-
-### Week 3
-- Authentication
-- JSON parsing
-- Networking libraries
-- Shared preferences
-- SQLite db
-- Notifications
-
-## Week 4
-- Make your own app.
+This program is structured and tailed around each candidates depending upon various parameters. Although not required to follow exactly, a flexible [Syllabus]() is created.
 
 ## Prerequisites
 Enrolling candidates should be motivated to learn and be comfortable with at least one programming language. Preference will be given to candidates who can code in Java. Familiarity with Git is also expected. Access to an Android device is helpful, but not mandatory.
 
 ## Study schedule
-
 Enrolled candidates are expected to dedicate 5 to 7 hours everyday for this track.
