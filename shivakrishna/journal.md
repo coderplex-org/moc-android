@@ -1,4 +1,4 @@
-# [shivakrishna9](http://github.com/shivakrishna9) Log File | MOC-JAND
+# [shivakrishna9](http://github.com/shivakrishna9) Log File | MOC-ANDROID
 
 Day 1
 
