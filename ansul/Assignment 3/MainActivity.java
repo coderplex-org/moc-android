@@ -14,17 +14,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         displayToast("Activity 1 onCreate");
         setContentView(R.layout.activity_main);
-        Button button=(Button) findViewById(R.id.activity2_button);
-        button.setOnClickListener(new View.OnClickListener(){
+        Button button = (Button) findViewById(R.id.activity2_button);
+        button.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v){
-                try{
-                    Intent intent = new Intent(MainActivity.this, SecondActivity.class);
-                    displayToast("Going to activity 2");
-                    startActivity(intent);
-                }catch (Exception e){
-
-                }
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, SecondActivity.class);
+                displayToast("Going to activity 2");
+                startActivity(intent);
             }
         });
     }
@@ -54,12 +50,18 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
+    protected void onRestart() {
+        super.onRestart();
+        displayToast("Activity 1 onRestart");
+    }
+
+    @Override
     protected void onDestroy() {
         super.onDestroy();
         displayToast("Activity 1 onDestroy");
     }
 
-    private void displayToast(String msg){
+    private void displayToast(String msg) {
         Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
     }
 }
