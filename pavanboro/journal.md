@@ -10,3 +10,8 @@
 [Facebook Login Layout](http://imgur.com/UXLmrhU)
 
 
+# Date: 2-07-2017
+---------
+
+Worked on assignment-1 (Facebook Login Layout)
+
