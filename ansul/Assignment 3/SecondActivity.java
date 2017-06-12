@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.pavanmallela.fccassignments.MainActivity;
+import com.pavanmallela.fccassignments.R;
+
 /**
  * Created by ansul on 07/06/17.
  */
@@ -56,6 +59,13 @@ public class SecondActivity extends AppCompatActivity {
         super.onDestroy();
         displayToast("Activity 2 onDestroy");
     }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+        displayToast("Activity 2 onRestart");
+    }
+    
     private void displayToast(String msg){
         Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
     }
