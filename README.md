@@ -2,7 +2,7 @@
 # FreeCodeCamp - Hyderabad
 
 ## Index
-1. [Structuring your Project](https://github.com/fcc-hyd/moc-android/blob/master/README.md#project-structure)
+1. [Structuring your Project](https://github.com/fcc-hyd/moc-android/blob/master/projectStructure.md)
 2. [Assignments](https://github.com/fcc-hyd/moc-android/blob/master/README.md#assignments)
     - [Personal Assignments](https://github.com/fcc-hyd/moc-android/projects)
         - [Personal projects tracker](https://github.com/fcc-hyd/moc-android/blob/master/progressTracker.md)
@@ -12,9 +12,6 @@
 5. [Syllabus](https://github.com/fcc-hyd/moc-android/blob/master/syllabus.md)
 6. [Prerequisites](https://github.com/fcc-hyd/moc-android/blob/master/README.md#prerequisites)
 7. [Study schedule](https://github.com/fcc-hyd/moc-android/blob/master/README.md#study-schedule)
-
-### Project Structure
-Try to follow guidelines laid in [Project Structure](https://github.com/fcc-hyd/moc-android/blob/master/projectStructure.md) for organizing your repositories.
 
 ### Assignments
 Projects are broken down to :
