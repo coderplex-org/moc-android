@@ -1,4 +1,5 @@
-# [shivakrishna9](http://github.com/shivakrishna9) Log File | MOC-ANDROID
+
+# [shivakrishna9](http://github.com/shivakrishna9) Log File | MOC-ANDROD
 
 Day 1
 
@@ -60,3 +61,18 @@ Day 8
 
 * Created app CountMyCLicks as assignment 4.
 
+Day 9 to Day 17 
+
+* College Projects , Hackathon, Internship Work, SAP Cert. Exam.
+
+Day 18
+
+### 18/6/17
+
+* Read about ListView
+
+Day 19
+
+### 19/06/17
+
+* Completed Assignment 5.
