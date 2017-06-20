@@ -25,6 +25,8 @@ All the candidates contribute to these projects.
 ### Best Practices
 - Upload your photos to [Imgur](http://imgur.com/) for sharing adding them in markdown files in projects.
 - Instead of uploading the complete android project, its a good idea to include the [.apk](https://stackoverflow.com/questions/17702053/where-is-android-studio-building-my-apk-file) file and relevant code files.
+- Send only one commit pull request per project, Stagging multiple commits in one pull request will be rejected.
+- Fetch latest updates from the master before working to avoid conflicts later on.
 
 ### Course Expectations
 1. Learn & create professional quality Android apps which :
