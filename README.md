@@ -1,10 +1,22 @@
 # Android - Month of Code Jun'17
 # FreeCodeCamp - Hyderabad
 
-## Project Structure
+## Index
+1. [Structuring your Project](https://github.com/fcc-hyd/moc-android/blob/master/README.md#project-structure)
+2. [Assignments](https://github.com/fcc-hyd/moc-android/blob/master/README.md#assignments)
+    - [Personal Assignments](https://github.com/fcc-hyd/moc-android/projects)
+        - [Personal projects tracker](https://github.com/fcc-hyd/moc-android/blob/master/progressTracker.md)
+    - [Group Assignments]()
+3. [Best practices](https://github.com/fcc-hyd/moc-android/blob/master/README.md#best-practices)
+4. [Expectations from the course](https://github.com/fcc-hyd/moc-android/blob/master/README.md#course-expectations)
+5. [Syllabus](https://github.com/fcc-hyd/moc-android/blob/master/syllabus.md)
+6. [Prerequisites](https://github.com/fcc-hyd/moc-android/blob/master/README.md#prerequisites)
+7. [Study schedule](https://github.com/fcc-hyd/moc-android/blob/master/README.md#study-schedule)
+
+### Project Structure
 Try to follow guidelines laid in [Project Structure](https://github.com/fcc-hyd/moc-android/blob/master/projectStructure.md) for organizing your repositories.
 
-## Assignments
+### Assignments
 Projects are broken down to :
 - [Personal Assignments](https://github.com/fcc-hyd/moc-android/projects) : Candidates are required to submit them regularly to advance in the course. [Personal projects tracker](https://github.com/fcc-hyd/moc-android/blob/master/progressTracker.md) is displays each candidates assignment completion.
 - Group Projects :
@@ -24,11 +36,8 @@ All the candidates contribute to these projects.
 2. Test apps for production use.
 3. Publish apps on playstore.
 
-## Syllabus
-This program is structured and tailed around each candidates depending upon various parameters. Although not required to follow exactly, a flexible [Syllabus](https://github.com/fcc-hyd/moc-android/blob/master/syllabus.md) is created.
-
-## Prerequisites
+### Prerequisites
 Enrolling candidates should be motivated to learn and be comfortable with at least one programming language. Preference will be given to candidates who can code in Java. Familiarity with Git is also expected. Access to an Android device is helpful, but not mandatory.
 
-## Study schedule
+### Study schedule
 Enrolled candidates are expected to dedicate 5 to 7 hours everyday for this track.

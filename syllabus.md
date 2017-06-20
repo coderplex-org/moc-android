@@ -1,3 +1,5 @@
+This program is structured and tailed around each candidates depending upon various parameters. Although not required to follow exactly, a flexible syllabus is below.
+
 ## Syllabus overview
 - Getting started installations
 - Java basics
