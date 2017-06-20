@@ -1,17 +1,11 @@
-# Date: 1-07-2017
----------
+# boro741 Log File | MOC-ANDROID
 
-## Learnt about - 
-1. types of layouts in android
-2. gradle
-3. xml
+### 1/6/17 
+* types of layouts in android
+* gradle
+* xml
+* [Facebook Login Layout](http://imgur.com/UXLmrhU)
 
-## Assignment: 
-[Facebook Login Layout](http://imgur.com/UXLmrhU)
-
-
-# Date: 2-07-2017
----------
-
+### 2/6/17
 Worked on assignment-1 (Facebook Login Layout)
 

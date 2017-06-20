@@ -1,8 +1,6 @@
 
 # [shivakrishna9](http://github.com/shivakrishna9) Log File | MOC-ANDROD
 
-Day 1
-
 ### 1/6/17
 
 * Interaction with fellow fcc moc particpants and fcc mentors
@@ -10,20 +8,16 @@ Day 1
 * Played around with layouts and their properties
 * Took an assignment from the mentors
 
-Day 2
 
 ### 2/6/17
 
 * Read about Activity Life Cycle
 
-Day 3
 
 ### 3/6/17
 
 * Completed Assignment1
 * Completed Udacity User Interface Course - Lesson 3
-
-Day 4
 
 ### 4/6/17
 
@@ -34,20 +28,15 @@ Day 4
 
 * TODO: Add music to the Birthday Card app to play music on screen touch.
 
-Day 5
-
 ### 5/6/17
 
 * Completed Make your own card (created SWOT) part of assignment 2
-
-Day 6
 
 ### 6/6/17
 
 * Read about constraint Layouts, AndroidManifest.xml.
 * Read about MainActivity java.
 
-Day 7
 
 ### 7/6/17
 
@@ -55,23 +44,16 @@ Day 7
 * Created an app to demonstrate Activity Life Cycle using toast messages part of assignment 3.
 * Read about floating action button and Snackbar display.
 
-Day 8
 
 ### 8/6/17
 
 * Created app CountMyCLicks as assignment 4.
 
-Day 9 to Day 17 
-
 * College Projects , Hackathon, Internship Work, SAP Cert. Exam.
-
-Day 18
 
 ### 18/6/17
 
 * Read about ListView
-
-Day 19
 
 ### 19/06/17
 
